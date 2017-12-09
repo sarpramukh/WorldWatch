@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { margin-left:100px; margin-right:100px;}
+#logoimg img{ width:100%; height:150px; padding-bottom:20px;}
+#navbar { background-color:#9E9E9E;  }
+#navmenu{ display:inline; margin: 10px;  }
+#navmenu li { display:inline; padding-right:20px; font-size:20px; }
+#navmenu li a { color:#000000; text-decoration:none;align-content:center;}
+#navmenu li a:hover { color:#3F6808; font-style:oblique;background-color:#85C079}
+.navimg { height:20px; width:20px; padding-right:5px; }
+
+
+/* Admin Panel */
+#main1{
+	background-color:#CBCF89;
+	align-content:center;
+}
+.common{
+	display:block;
+	margin: 20px;
+	width: 300px;
+	padding-left: 30%;
+	
+}

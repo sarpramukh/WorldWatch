@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+#gridDiv{
+	float:left;
+	display:block;
+	width: 250px;	
+	margin: 1.6%;
+	border : solid 2px #5FA335;
+}
+
+#gridTable {
+	float:left;
+	width: 252px;	
+}
+.gridContent{
+	text-align:center;
+	font-size:14px;
+	
+	}
+
+.gridImg img{
+	width:246px;	
+	
+}
+
+
